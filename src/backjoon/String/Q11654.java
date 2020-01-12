@@ -1,3 +1,5 @@
+package backjoon.String;
+
 import java.util.Scanner;
 
 public class Q11654 {

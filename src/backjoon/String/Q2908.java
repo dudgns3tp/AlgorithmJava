@@ -1,4 +1,4 @@
-package backjoon;
+package backjoon.String;
 import java.util.Scanner;
 
 public class Q2908 {
