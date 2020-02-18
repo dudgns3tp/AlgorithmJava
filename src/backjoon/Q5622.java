@@ -1,4 +1,4 @@
-package backjoon.String;
+package backjoon;
 import java.util.Scanner;
 public class Q5622 {
     private static int swtichNum(char c){

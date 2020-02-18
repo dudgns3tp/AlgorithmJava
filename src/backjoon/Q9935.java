@@ -1,5 +1,4 @@
-package backjoon.String;
-
+package backjoon;
 import java.util.Scanner;
 // stack으로 풀기
 public class Q9935 {
