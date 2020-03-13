@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f8cd671-e780-4137-873b-cf806f729f95" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9012_stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9012_stack.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backjoon/Q1920_binarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjoon/Q2869_math.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -38,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DFSBFS/DFSBFS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="136" column="24" lean-forward="true" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
+            <state relative-caret-position="2774">
+              <caret line="158" column="23" lean-forward="true" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,10 +35,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String_And_Array/MeetingRooms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjoon/Q15683_BP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            <state relative-caret-position="266">
+              <caret line="14" column="27" lean-forward="true" selection-end-line="88" />
             </state>
           </provider>
         </entry>
@@ -181,11 +182,13 @@
         <option value="$PROJECT_DIR$/src/dataStruture/treeTest.java" />
         <option value="$PROJECT_DIR$/src/backjoon/Q15683.java" />
         <option value="$PROJECT_DIR$/src/backjoon/Q15683_BP.java" />
+        <option value="$PROJECT_DIR$/src/String_And_Array/meetingRoom.java" />
+        <option value="$PROJECT_DIR$/src/String_And_Array/MeetingRooms.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -213,46 +216,13 @@
               <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="backjoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStruture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStruture" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStruture" type="462c0819:PsiDirectoryNode" />
-              <item name="treeTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DFSBFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DFSBFS" type="462c0819:PsiDirectoryNode" />
-              <item name="DFSBFS.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="String_And_Array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583946525018" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584109677848" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -291,13 +261,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q15683_BP">
-    <configuration name="Q10773_stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Q10773_stack" />
+  <component name="RunManager" selected="Application.MeetingRooms">
+    <configuration name="MeetingRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_And_Array.MeetingRooms" />
       <module name="AlgorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjoon.*" />
+          <option name="PATTERN" value="String_And_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MeetingRooms" />
         <item itemvalue="Application.Q15683_BP" />
         <item itemvalue="Application.treeTest" />
         <item itemvalue="Application.linkedList" />
         <item itemvalue="Application.Q9012_stack" />
-        <item itemvalue="Application.Q10773_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -383,15 +353,15 @@
       <workItem from="1582283666186" duration="13883000" />
       <workItem from="1582538658600" duration="12491000" />
       <workItem from="1583580028895" duration="8951000" />
-      <workItem from="1583930807600" duration="11831000" />
+      <workItem from="1583930807600" duration="15124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84916000" />
+    <option name="totallyTimeSpent" value="88209000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -400,18 +370,18 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.12579957" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.25820568" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16052061" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1583514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33187294" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33406353" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.33187294" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -420,7 +390,7 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="6" side_tool="true" visible="true" weight="0.32889125" />
+      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="6" side_tool="true" weight="0.32889125" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -737,20 +707,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjoon/Q15683_BP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" lean-forward="true" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_and_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/DFSBFS/DFSBFS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="136" column="24" lean-forward="true" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
+        <state relative-caret-position="2774">
+          <caret line="158" column="23" lean-forward="true" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q15683_BP.java">
+    <entry file="file://$PROJECT_DIR$/src/String_And_Array/MeetingRooms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        <state relative-caret-position="218">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
