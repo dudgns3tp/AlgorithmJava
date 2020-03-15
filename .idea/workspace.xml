@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f8cd671-e780-4137-873b-cf806f729f95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/String_And_Array/DailyTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String_And_Array/DailyTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +28,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+            <state relative-caret-position="342">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#solve#0;class#NumberOfIsland#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,7 +145,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584274788544" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584277231899" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -260,12 +264,12 @@
       <workItem from="1582538658600" duration="12491000" />
       <workItem from="1583580028895" duration="8951000" />
       <workItem from="1583930807600" duration="22067000" />
-      <workItem from="1584272763581" duration="1767000" />
+      <workItem from="1584272763581" duration="4359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96919000" />
+    <option name="totallyTimeSpent" value="99511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -280,12 +284,12 @@
       <window_info content_ui="combo" id="Project" order="6" weight="0.12846482" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15726681" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15726681" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33406353" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3340564" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
@@ -652,8 +656,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="342">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#solve#0;class#NumberOfIsland#0" />
+          </folding>
         </state>
       </provider>
     </entry>
