@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f8cd671-e780-4137-873b-cf806f729f95" name="Default Changelist" comment="t">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/DFSBFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/DFSBFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaxOfIslands.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaxOfIslands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaximumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaximumDepthOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/NumberOfIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/NumberOfIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/wordLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/wordLadder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/META-INF/AlgorithmJava.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q10974.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q10974.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q2309.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q2309.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MoveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MoveZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10773_stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10773_stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10809.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10809.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10815.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10815.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11047_greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11047_greedy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11399_greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11399_greedy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1152.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1157.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1157.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11654.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11654.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1260.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1260.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q15683_BP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q15683_BP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143$Shark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143$Shark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1920_binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1920_binarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2869_math.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2869_math.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2908.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2908.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q5622.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q5622.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9012_stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9012_stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9935.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9935.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCOde_round2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCOde_round2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCode_round1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCode_round1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Q10799.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Q10799.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/linkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/linkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/AL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/AL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/Knumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/Knumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/transTop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/transTop.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

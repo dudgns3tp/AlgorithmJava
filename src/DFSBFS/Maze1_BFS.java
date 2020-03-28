@@ -43,7 +43,7 @@ public class Maze1_BFS {
                 y-=dir[1];
                 if(visited[x][y]) continue;
                 visited[x][y] = true;
-                System.out.println("======");
+                System.out.println("====");
                 print(visited);
                 if(x==dest[0] && y==dest[1]) return true;
                 queue.offer(new int[] { x,y});
