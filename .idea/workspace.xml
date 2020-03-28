@@ -1,82 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f8cd671-e780-4137-873b-cf806f729f95" name="Default Changelist" comment="">
+    <list default="true" id="9f8cd671-e780-4137-873b-cf806f729f95" name="Default Changelist" comment="t">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/DFSBFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/DFSBFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaxOfIslands.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaxOfIslands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaximumDepthOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/MaximumDepthOfBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/NumberOfIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/NumberOfIsland.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/wordLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/DFSBFS/wordLadder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/META-INF/AlgorithmJava.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q10974.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q10974.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q2309.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/Search/Q2309.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MeetingRooms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MoveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/MoveZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/String_And_Array/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10773_stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10773_stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10809.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10809.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10815.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q10815.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11047_greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11047_greedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11399_greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11399_greedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1152.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1157.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1157.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11654.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q11654.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1260.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1260.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q15683_BP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q15683_BP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143$Shark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143$Shark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q17143.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1920_binarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1920_binarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q1931_greedy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2869_math.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2869_math.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2908.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q2908.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q5622.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q5622.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9012_stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9012_stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9935.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Q9935.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCOde_round2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCOde_round2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCode_round1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/backjoon/kakaoCode_round1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Q10799.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Q10799.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/linkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/linkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/dataStruture/treeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/AL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/AL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/BigNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/Knumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/Knumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/transTop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJava/programmers/transTop.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String_And_Array/MeetingRooms.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backjoon/Q2178_BFS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="41" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DFSBFS/MaximumDepthOfBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DFSBFS/MaxOfIslands.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DFSBFS/wordLadder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,105 +75,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Q11654.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q2908.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q10809.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/String/Q1152.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/String/Q1157.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/String/Q5622.java" />
-        <option value="$PROJECT_DIR$/src/dataStruture/Stack/Q10799.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/String/Q9935.java" />
-        <option value="$PROJECT_DIR$/src/programmers/arraylist.java" />
-        <option value="$PROJECT_DIR$/src/programmers/AL.java" />
-        <option value="$PROJECT_DIR$/src/programmers/transTop.java" />
-        <option value="$PROJECT_DIR$/src/programmers/Knumber.java" />
-        <option value="$PROJECT_DIR$/src/programmers/BigNumber.java" />
-        <option value="$PROJECT_DIR$/src/Search/Q2309.java" />
-        <option value="$PROJECT_DIR$/src/Search/Q10974.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q10815.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q17143.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/BFS.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/DFSBFS.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/newdfs.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q1260.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q2667_DFSBFS.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q10816_binarySearch.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q11399_greedy.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q11047_greedyAl.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q11047_greedy.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q1931_greedy.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q1920_binarySearch.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q2869_.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q2869_math.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/kakaoCode_round1.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/kakaoCOde_round2.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q10773_stack.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q9012_stack.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/linkedList.java" />
-        <option value="$PROJECT_DIR$/src/dataStruture/tree.java" />
-        <option value="$PROJECT_DIR$/src/dataStruture/linkedList.java" />
-        <option value="$PROJECT_DIR$/src/dataStruture/treeTest.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q15683.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q15683_BP.java" />
-        <option value="$PROJECT_DIR$/src/String_And_Array/meetingRoom.java" />
-        <option value="$PROJECT_DIR$/src/String_And_Array/MeetingRooms.java" />
-        <option value="$PROJECT_DIR$/src/String_And_Array/MoveZeros.java" />
-        <option value="$PROJECT_DIR$/src/String_And_Array/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/String_And_Array/DailyTemperature.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/Q2178_BFS.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/MaximumDepthOfBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/MaxOfIslands.java" />
-        <option value="$PROJECT_DIR$/src/DFSBFS/wordLadder.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
-  </component>
+  <component name="ProjectId" id="1Zl9zvtReah02vipTHEGkSK5QUD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DFSBFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585037316465" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -200,19 +102,20 @@
       <command value=" run" />
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.wordLadder">
+  <component name="RunManager" selected="Application.Maze1_BFS">
+    <configuration name="DFSBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.DFSBFS" />
+      <module name="AlgorithmJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFSBFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaxOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.MaxOfIslands" />
       <module name="AlgorithmJava" />
@@ -239,25 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.NumberOfIsland" />
+    <configuration name="Maze1_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSBFS.Maze1_BFS" />
       <module name="AlgorithmJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DFSBFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q2178_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.Q2178_BFS" />
-      <module name="AlgorithmJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maze1_BFS" />
+        <item itemvalue="Application.DFSBFS" />
         <item itemvalue="Application.wordLadder" />
         <item itemvalue="Application.MaxOfIslands" />
         <item itemvalue="Application.MaximumDepthOfBinaryTree" />
-        <item itemvalue="Application.Q2178_BFS" />
-        <item itemvalue="Application.NumberOfIsland" />
       </list>
     </recent_temporary>
   </component>
@@ -324,430 +214,38 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.13272922" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15726681" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3373102" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286334" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="6" side_tool="true" weight="0.32889125" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.122068234" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1670282" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="6" side_tool="true" weight="0.32889125" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q2908.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q1157.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q1152.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataStruture/Q10799.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/arraylist.java" />
-    <entry file="file://$PROJECT_DIR$/src/programmers/AL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/Knumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/transTop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q9935.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programmers/BigNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q5622.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q10809.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFSBFS/newdfs.java" />
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q2667_DFSBFS.java" />
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q11654.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q10816_binarySearch.java" />
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q1260.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q17143.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="815">
-          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/Q2309.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q10815.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q11399_greedy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="25" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q11047_greedy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q1931_greedy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q1920_binarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q2869_math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/kakaoCode_round1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/kakaoCOde_round2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q10773_stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFSBFS/linkedList.java" />
-    <entry file="file://$PROJECT_DIR$/src/String_and_array.java" />
-    <entry file="file://$PROJECT_DIR$/src/DFSBFS/DFSBFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2736">
-          <caret line="158" column="23" selection-start-line="158" selection-start-column="23" selection-end-line="158" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Search/Q10974.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q15683_BP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="27" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataStruture/linkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dataStruture/treeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_And_Array/DailyTemperature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" lean-forward="true" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q9012_stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_And_Array/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_And_Array/MoveZeros.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String_And_Array/MeetingRooms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/Q2178_BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="41" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFSBFS/MaximumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFSBFS/MaxOfIslands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFSBFS/wordLadder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="745" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585403201926">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="745" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403201926" />
+    <state x="513" y="162" key="CommitChangelistDialog2" timestamp="1585405327574">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="513" y="162" key="CommitChangelistDialog2/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585405327574" />
+    <state width="1750" height="111" key="GridCell.Tab.0.bottom" timestamp="1585406242406">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="111" key="GridCell.Tab.0.bottom/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406242406" />
+    <state width="1358" height="111" key="GridCell.Tab.0.bottom/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286385" />
+    <state width="1750" height="111" key="GridCell.Tab.0.center" timestamp="1585406242404">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="111" key="GridCell.Tab.0.center/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406242404" />
+    <state width="1358" height="111" key="GridCell.Tab.0.center/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286384" />
+    <state width="1750" height="111" key="GridCell.Tab.0.left" timestamp="1585406242403">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="111" key="GridCell.Tab.0.left/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406242403" />
+    <state width="1358" height="111" key="GridCell.Tab.0.left/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286383" />
+    <state width="1750" height="111" key="GridCell.Tab.0.right" timestamp="1585406242405">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="111" key="GridCell.Tab.0.right/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406242405" />
+    <state width="1358" height="111" key="GridCell.Tab.0.right/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286385" />
   </component>
   <component name="masterDetails">
     <states>
