@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f8cd671-e780-4137-873b-cf806f729f95" name="Default Changelist" comment="t">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/NumberOfIsland.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +46,9 @@
       <command value=" run" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.wordSearch">
+  <component name="RunManager" selected="Application.UniquePath">
     <configuration name="DFSBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.DFSBFS" />
-      <module name="AlgorithmJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFSBFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.MaxOfIslands" />
       <module name="AlgorithmJava" />
       <extension name="coverage">
         <pattern>
@@ -80,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DFSBFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniquePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.UniquePath" />
+      <module name="AlgorithmJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniquePath" />
         <item itemvalue="Application.wordSearch" />
         <item itemvalue="Application.Maze1_BFS" />
         <item itemvalue="Application.DFSBFS" />
         <item itemvalue="Application.wordLadder" />
-        <item itemvalue="Application.MaxOfIslands" />
       </list>
     </recent_temporary>
   </component>
@@ -171,28 +170,28 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="513" y="162" key="CommitChangelistDialog2/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585405327574" />
-    <state width="1750" height="473" key="GridCell.Tab.0.bottom" timestamp="1585642278611">
+    <state width="1750" height="473" key="GridCell.Tab.0.bottom" timestamp="1585726780068">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585642278611" />
+    <state width="1750" height="473" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780068" />
     <state width="1750" height="473" key="GridCell.Tab.0.bottom/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454450" />
     <state width="1358" height="111" key="GridCell.Tab.0.bottom/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286385" />
-    <state width="1750" height="473" key="GridCell.Tab.0.center" timestamp="1585642278609">
+    <state width="1750" height="473" key="GridCell.Tab.0.center" timestamp="1585726780060">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585642278609" />
+    <state width="1750" height="473" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780060" />
     <state width="1750" height="473" key="GridCell.Tab.0.center/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454448" />
     <state width="1358" height="111" key="GridCell.Tab.0.center/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286384" />
-    <state width="1750" height="473" key="GridCell.Tab.0.left" timestamp="1585642278607">
+    <state width="1750" height="473" key="GridCell.Tab.0.left" timestamp="1585726780059">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585642278607" />
+    <state width="1750" height="473" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780059" />
     <state width="1750" height="473" key="GridCell.Tab.0.left/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454447" />
     <state width="1358" height="111" key="GridCell.Tab.0.left/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286383" />
-    <state width="1750" height="473" key="GridCell.Tab.0.right" timestamp="1585642278610">
+    <state width="1750" height="473" key="GridCell.Tab.0.right" timestamp="1585726780067">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585642278610" />
+    <state width="1750" height="473" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780067" />
     <state width="1750" height="473" key="GridCell.Tab.0.right/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454449" />
     <state width="1358" height="111" key="GridCell.Tab.0.right/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286385" />
     <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1585641712508">
