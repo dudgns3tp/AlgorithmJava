@@ -46,7 +46,7 @@
       <command value=" run" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.UniquePath">
+  <component name="RunManager" selected="Application.Q2667">
     <configuration name="DFSBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSBFS.DFSBFS" />
       <module name="AlgorithmJava" />
@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniquePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.UniquePath" />
+    <configuration name="Q2667" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.Q2667" />
       <module name="AlgorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="backjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wordLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFSBFS.wordLadder" />
+    <configuration name="UniquePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.UniquePath" />
       <module name="AlgorithmJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFSBFS.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2667" />
         <item itemvalue="Application.UniquePath" />
         <item itemvalue="Application.wordSearch" />
         <item itemvalue="Application.Maze1_BFS" />
         <item itemvalue="Application.DFSBFS" />
-        <item itemvalue="Application.wordLadder" />
       </list>
     </recent_temporary>
   </component>
@@ -170,34 +170,42 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="513" y="162" key="CommitChangelistDialog2/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585405327574" />
-    <state width="1750" height="473" key="GridCell.Tab.0.bottom" timestamp="1585726780068">
+    <state width="918" height="197" key="GridCell.Tab.0.bottom" timestamp="1586522953087">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780068" />
+    <state width="918" height="197" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586522953087" />
+    <state width="1750" height="473" key="GridCell.Tab.0.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1585812762943" />
     <state width="1750" height="473" key="GridCell.Tab.0.bottom/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454450" />
     <state width="1358" height="111" key="GridCell.Tab.0.bottom/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286385" />
-    <state width="1750" height="473" key="GridCell.Tab.0.center" timestamp="1585726780060">
+    <state width="918" height="197" key="GridCell.Tab.0.center" timestamp="1586522953086">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780060" />
+    <state width="918" height="197" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586522953086" />
+    <state width="1750" height="473" key="GridCell.Tab.0.center/0.23.1792.1020@0.23.1792.1020" timestamp="1585812762942" />
     <state width="1750" height="473" key="GridCell.Tab.0.center/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454448" />
     <state width="1358" height="111" key="GridCell.Tab.0.center/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286384" />
-    <state width="1750" height="473" key="GridCell.Tab.0.left" timestamp="1585726780059">
+    <state width="918" height="197" key="GridCell.Tab.0.left" timestamp="1586522953085">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780059" />
+    <state width="918" height="197" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586522953085" />
+    <state width="1750" height="473" key="GridCell.Tab.0.left/0.23.1792.1020@0.23.1792.1020" timestamp="1585812762941" />
     <state width="1750" height="473" key="GridCell.Tab.0.left/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454447" />
     <state width="1358" height="111" key="GridCell.Tab.0.left/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286383" />
-    <state width="1750" height="473" key="GridCell.Tab.0.right" timestamp="1585726780067">
+    <state width="918" height="197" key="GridCell.Tab.0.right" timestamp="1586522953087">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="473" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1585726780067" />
+    <state width="918" height="197" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586522953087" />
+    <state width="1750" height="473" key="GridCell.Tab.0.right/0.23.1792.1020@0.23.1792.1020" timestamp="1585812762942" />
     <state width="1750" height="473" key="GridCell.Tab.0.right/1792.0.1016.746/0.0.1792.1120@0.0.1792.1120" timestamp="1585406454449" />
     <state width="1358" height="111" key="GridCell.Tab.0.right/1792.23.1016.723/0.23.1792.1022@0.23.1792.1022" timestamp="1585403286385" />
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1585641712508">
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1586518842506">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1585641712508" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586518842506" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1586522465813">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586522465813" />
   </component>
   <component name="masterDetails">
     <states>
