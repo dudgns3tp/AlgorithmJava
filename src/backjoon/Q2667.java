@@ -7,6 +7,7 @@ import java.util.Vector;
 public class Q2667 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        Vector<Integer> v =new Vector<Integer>();
         int N = sc.nextInt();
         int[][] arr = new int[N][N];
         for(int i=0; i<N; i++){
@@ -15,21 +16,28 @@ public class Q2667 {
                 arr[i][j] = input.charAt(j) - '0';
             }
         }
+
+        for(int i = 0; i < N; i++){
+            for(int j=0; j<N; j++){
+                System.out.print(arr[i][j]);
+            }
+            System.out.println();
+        }
         sc.close();
         Q2667 a = new Q2667();
-        a.solve(arr);
+        a.solve(arr, v);
     }
-    public void solve(int arr[][]){
-        cntHouse(arr);
-        System.out.println(v.size());
+    public void solve(int arr[][], Vector<Integer> v){
+        cntHouse(arr, v);
+        System.out.println("사이즈는: "+ v.size());
         for(int i=0; i<v.size(); i++){
             System.out.println(v.elementAt(i));
         }
     }
-    Vector<Integer> v =new Vector<Integer>();
+
     int [][] dirs = {{-1,0},{1,0},{0,-1},{0,1}};
     int m;
-    public void cntHouse(int[][] arr) {
+    public void cntHouse(int[][] arr, Vector<Integer> v) {
         // null 체크
         if (arr == null || arr.length == 0) {
             return;
@@ -40,7 +48,7 @@ public class Q2667 {
                 if (arr[i][j] == 1) {
                     int area = dfs(arr, i, j, 0);
                     if(area != 0)
-                        v.add(area);
+                        v.addElement(area);
                 }
             }
         }
