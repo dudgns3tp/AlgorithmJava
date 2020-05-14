@@ -1,6 +1,8 @@
 package backjoon;
 
 import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 public class Q4963 {
@@ -33,11 +35,31 @@ public class Q4963 {
                 for (int j = 0; j < grid[i].length; j++) {
                     if (grid[i][j] == 1 && visits[i][j] == false) {
                         result++;
-                        dfs(i, j, grid, visits);
+                        //dfs(i, j, grid, visits);
+                        bfs(i,j,grid,visits);
                     }
                 }
             }
             System.out.println(result);
+        }
+    }
+
+    public static void bfs(int w, int h, int [][] grid, boolean[][] visits){
+        Queue<int []> queue = new LinkedList<>();
+        queue.offer(new int[] {w,h});
+        while(!queue.isEmpty()){
+            int size = queue.size();
+            int[] point = queue.poll();
+            for(int i =0; i<size; i++){
+                for(int[] dir: dirs){
+                    int x1= point[0] +dir[0];
+                    int y1 = point[1] + dir[1];
+                    if(x1>=0 && y1>=0 && x1<grid.length && y1<grid[0].length && grid[x1][y1]==1 && !visits[x1][y1] ){
+                        visits[x1][y1] = true;
+                        queue.offer(new int[] {x1,y1});
+                    }
+                }
+            }
         }
     }
 
